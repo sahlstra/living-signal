@@ -1,8 +1,7 @@
 # Living Signal
 
 A journaling method for preserving meaning across time, context, and interpretation  
-Author: Aaron Sahlstrom  
-Version 0.0.2
+Author: Aaron Sahlstrom
 
 ## About the Methodology
 

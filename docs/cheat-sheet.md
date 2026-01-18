@@ -1,7 +1,6 @@
 # Living Signal - Inside Cover Cheat Sheet
 
-Author: Aaron Sahlstrom  
-Version: 0.0.2
+Author: Aaron Sahlstrom
 
 ## Entry Format
 

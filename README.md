@@ -1,6 +1,6 @@
 # Living Signal
 
-A human-first journaling methodology designed to preserve lived experience, meaning, and persona continuity across time.
+A human-first journaling methodology designed to preserve lived experience, meaning, and persona continuity across time, digitization, and AI processing.
 
 ## Overview
 
@@ -39,6 +39,3 @@ The data remains your own, structured for whatever future intelligence you choos
 ## Getting Started
 
 Start by reading the [Journaling Method](docs/journaling-method.md) to understand the core principles. Use the [Cheat Sheet](docs/cheat-sheet.md) as a daily reference until the syntax becomes second nature.
-
----
-*Version 0.0.2*

@@ -22,8 +22,6 @@ Living Signal is a framework for capturing personal history in a way that is nat
 │   ├── cheat-sheet.md
 │   ├── persona-guidance.md
 │   └── whitepaper.md
-├── resources/
-│   └── pdfs/            # Original PDF versions (archived)
 └── README.md
 ```
 

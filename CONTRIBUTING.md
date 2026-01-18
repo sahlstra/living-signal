@@ -2,14 +2,14 @@
 
 Thank you for your interest in the Living Signal™ methodology.
 
-This repository holds the official documentation for the **Living Signal protocol**. Our primary goal is to maintain a stable, verified standard that individuals can trust for their long-term data preservation.
+This repository holds the official documentation for the **Living Signal Journaling Method**. Our primary goal is to maintain a stable, verified standard that individuals can trust for their long-term data preservation.
 
 Because this is a **standard**, we manage contributions differently than a typical software project. Stability and intentionality are prioritized over rapid iteration.
 
 ## Governing Philosophy
 
 1.  **Stability**: The syntax (e.g., `// [Timestamp]`) is designed to be parsed decades from now. Breaking changes are generally discouraged.
-2.  **Authority**: To protect the integrity of the method, final decisions on the protocol specification rest with the maintainer (Aaron Sahlstrom).
+2.  **Authority**: To protect the integrity of the method, final decisions on the method and protocol specification rest with the maintainer (Aaron Sahlstrom).
 3.  **Scope**: This repository defines the *data protocol* and *human method*. It does typically not include specific AI implementation code, scripts, or apps, which belong in separate repositories.
 
 ## What We Welcome

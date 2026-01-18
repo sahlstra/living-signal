@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Living Signal Code
+title: Living Signal Journaling Method
 description: A human-first journaling method designed for future-proof AI context.
-logo: /resources/living-signal-logo.png # Optional: If you ever create a logo
+# logo: /resources/living-signal-logo.png # Uncomment if you add a logo file later
 show_downloads: true

@@ -39,3 +39,21 @@ The data remains your own, structured for whatever future intelligence you choos
 ## Getting Started
 
 Start by reading the [Journaling Method](docs/journaling-method.md) to understand the core principles. Use the [Cheat Sheet](docs/cheat-sheet.md) as a daily reference until the syntax becomes second nature.
+
+## License & Legal
+
+**Living Signal™**
+
+Copyright © 2026 Aaron Sahlstrom.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+### Summary of Rights
+*   **You are free to:** Share and Adapt the material.
+*   **Under the following terms:**
+    *   **Attribution:** You must credit Aaron Sahlstrom.
+    *   **NonCommercial:** You may not use this material for commercial purposes (e.g., selling books, courses, or apps based primarily on this content).
+    *   **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+*   **Trademark:** "Living Signal" is a trademark of Aaron Sahlstrom. You may not use this name for commercial products without permission.

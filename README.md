@@ -10,8 +10,20 @@ Living Signal is a framework for capturing personal history in a way that is nat
 
 - **[Journaling Method](docs/journaling-method.md)**: The core guide. How to write, structure entries, and use signal blocks.
 - **[Cheat Sheet](docs/cheat-sheet.md)**: A quick reference for entry format and signal types.
-- **[Persona Guidance](docs/persona-guidance.md)**: Instructions for using this journal corpus to prompt or align an AI persona (e.g., for RAG systems).
 - **[Whitepaper](docs/whitepaper.md)**: The theoretical and academic background behind the methodology.
+
+## Scope & Intent
+
+This repository focuses exclusively on the **data capture methodology**—the "protocol" for writing. It does not prescribe a specific AI implementation or prompting strategy.
+
+By separating the method from the model, Living Signal serves as a neutral foundation for any future digitization system. The structured "signals" provided by this method can be used to power:
+
+- **RAG-based AI Personas:** Retrieving signals to ground chatbot responses in authentic lived experience.
+- **Personal Analytics:** Visualizing trends in emotion or decision-making over time.
+- **Digital Biographies:** Structurally organizing memories for narrative generation.
+- **Mental Health Tools:** Tracking patterns in reflection and identity.
+
+The data remains your own, structured for whatever future intelligence you choose to apply to it.
 
 ## Repository Structure
 
@@ -20,7 +32,6 @@ Living Signal is a framework for capturing personal history in a way that is nat
 ├── docs/                 # Core documentation and guides
 │   ├── journaling-method.md
 │   ├── cheat-sheet.md
-│   ├── persona-guidance.md
 │   └── whitepaper.md
 └── README.md
 ```

@@ -156,3 +156,6 @@ This approach allows future queries like:
 - What mattered most during an event or phase in your life?
 
 Living Signal preserves that distinction. All answers are grounded in your own voice, written in real time. Living Signal is a journaling practice that protects human meaning while quietly enabling machine understanding.
+
+---
+**Living Signal™** © 2026 Aaron Sahlstrom. Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).

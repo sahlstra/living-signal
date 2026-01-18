@@ -54,3 +54,6 @@ Living Signal offers a pragmatic bridge between human reflective practices and m
 - Weick, K. E. (1995). *Sensemaking in Organizations.*
 - Schon, D. A. (1983). *The Reflective Practitioner.*
 - Li, I., Dey, A., and Forlizzi, J. (2010). A stage-based model of personal informatics systems.
+
+---
+**Living Signal™** © 2026 Aaron Sahlstrom. Licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
